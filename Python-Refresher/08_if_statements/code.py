@@ -7,7 +7,7 @@ elif day_of_week == "Tuesday":
     print("Es ist Dienstag.")
 else:
     print("CHOO CHOO MOTHA TRUCKAS!")
-# This is inefficient
+# This is inefficient, use else/elif
 # if day_of_week != "Monday":
 #     print("Choo choo mother truckers")
 
