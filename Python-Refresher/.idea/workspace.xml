@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1au5WEitqLRj8IejMga37Eb2IyT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,15 +25,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/15_functions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/25_classmethod_staticmethod" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/15_functions" />
-      <recent name="$PROJECT_DIR$/14_destructuring_variables" />
-      <recent name="$PROJECT_DIR$/13_dictionaries" />
-      <recent name="$PROJECT_DIR$/12_list_comprehension" />
-      <recent name="$PROJECT_DIR$/11_loops" />
+      <recent name="$PROJECT_DIR$/25_classmethod_staticmethod" />
+      <recent name="$PROJECT_DIR$/24_str_and_repr" />
+      <recent name="$PROJECT_DIR$/23_object_oriented_programming" />
+      <recent name="$PROJECT_DIR$/22_upacking_keyword_arguments" />
+      <recent name="$PROJECT_DIR$/21_unpacking_arguments" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -47,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_destructuring_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_str_and_repr" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_destructuring_variables/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_str_and_repr/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,11 +71,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_classmethod_staticmethod" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_functions/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25_classmethod_staticmethod/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Refresher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21_unpacking_arguments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21_unpacking_arguments/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,32 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/23_object_oriented_programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_loops/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Refresher" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_list_comprehension" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_list_comprehension/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23_object_oriented_programming/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22_upacking_keyword_arguments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_dictionaries/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_upacking_keyword_arguments/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,9 +151,9 @@
       <list>
         <item itemvalue="Python.code (2)" />
         <item itemvalue="Python.code (1)" />
-        <item itemvalue="Python.code" />
-        <item itemvalue="Python.code (5)" />
         <item itemvalue="Python.code (4)" />
+        <item itemvalue="Python.code" />
+        <item itemvalue="Python.code (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -176,34 +179,42 @@
       <screen x="-1080" y="173" width="1080" height="1897" />
     </state>
     <state x="-843" y="369" key="#com.intellij.fileTypes.FileTypeChooser/-1080.173.1080.1897/0.23.1680.942@-1080.173.1080.1897" timestamp="1587575554451" />
-    <state width="1059" height="196" key="GridCell.Tab.0.bottom" timestamp="1587681599840">
-      <screen x="-1080" y="61" width="1080" height="1897" />
+    <state width="1059" height="196" key="GridCell.Tab.0.bottom" timestamp="1587867039176">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state width="1059" height="196" key="GridCell.Tab.0.bottom/-1080.173.1080.1897/0.23.1680.942@-1080.173.1080.1897" timestamp="1587576406350" />
-    <state width="1059" height="196" key="GridCell.Tab.0.bottom/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1587681599840" />
+    <state width="1059" height="196" key="GridCell.Tab.0.bottom/-1080.61.1080.1897/0.23.1680.939@-1080.61.1080.1897" timestamp="1587769112535" />
+    <state width="1059" height="196" key="GridCell.Tab.0.bottom/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1587751924954" />
     <state width="1059" height="196" key="GridCell.Tab.0.bottom/-1080.61.1080.1897/0.23.1680.945@-1080.61.1080.1897" timestamp="1587662598518" />
     <state width="1059" height="196" key="GridCell.Tab.0.bottom/-1080.61.1080.1897/0.23.1680.948@-1080.61.1080.1897" timestamp="1587664777441" />
-    <state width="1059" height="196" key="GridCell.Tab.0.center" timestamp="1587681599839">
-      <screen x="-1080" y="61" width="1080" height="1897" />
+    <state width="1059" height="196" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587867039176" />
+    <state width="1059" height="196" key="GridCell.Tab.0.center" timestamp="1587867039175">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state width="1059" height="196" key="GridCell.Tab.0.center/-1080.173.1080.1897/0.23.1680.942@-1080.173.1080.1897" timestamp="1587576406349" />
-    <state width="1059" height="196" key="GridCell.Tab.0.center/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1587681599839" />
+    <state width="1059" height="196" key="GridCell.Tab.0.center/-1080.61.1080.1897/0.23.1680.939@-1080.61.1080.1897" timestamp="1587769112534" />
+    <state width="1059" height="196" key="GridCell.Tab.0.center/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1587751924953" />
     <state width="1059" height="196" key="GridCell.Tab.0.center/-1080.61.1080.1897/0.23.1680.945@-1080.61.1080.1897" timestamp="1587662598517" />
     <state width="1059" height="196" key="GridCell.Tab.0.center/-1080.61.1080.1897/0.23.1680.948@-1080.61.1080.1897" timestamp="1587664777440" />
-    <state width="1059" height="196" key="GridCell.Tab.0.left" timestamp="1587681599838">
-      <screen x="-1080" y="61" width="1080" height="1897" />
+    <state width="1059" height="196" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1587867039175" />
+    <state width="1059" height="196" key="GridCell.Tab.0.left" timestamp="1587867039174">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state width="1059" height="196" key="GridCell.Tab.0.left/-1080.173.1080.1897/0.23.1680.942@-1080.173.1080.1897" timestamp="1587576406348" />
-    <state width="1059" height="196" key="GridCell.Tab.0.left/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1587681599838" />
+    <state width="1059" height="196" key="GridCell.Tab.0.left/-1080.61.1080.1897/0.23.1680.939@-1080.61.1080.1897" timestamp="1587769112534" />
+    <state width="1059" height="196" key="GridCell.Tab.0.left/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1587751924952" />
     <state width="1059" height="196" key="GridCell.Tab.0.left/-1080.61.1080.1897/0.23.1680.945@-1080.61.1080.1897" timestamp="1587662598516" />
     <state width="1059" height="196" key="GridCell.Tab.0.left/-1080.61.1080.1897/0.23.1680.948@-1080.61.1080.1897" timestamp="1587664777439" />
-    <state width="1059" height="196" key="GridCell.Tab.0.right" timestamp="1587681599840">
-      <screen x="-1080" y="61" width="1080" height="1897" />
+    <state width="1059" height="196" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1587867039174" />
+    <state width="1059" height="196" key="GridCell.Tab.0.right" timestamp="1587867039175">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state width="1059" height="196" key="GridCell.Tab.0.right/-1080.173.1080.1897/0.23.1680.942@-1080.173.1080.1897" timestamp="1587576406349" />
-    <state width="1059" height="196" key="GridCell.Tab.0.right/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1587681599840" />
+    <state width="1059" height="196" key="GridCell.Tab.0.right/-1080.61.1080.1897/0.23.1680.939@-1080.61.1080.1897" timestamp="1587769112535" />
+    <state width="1059" height="196" key="GridCell.Tab.0.right/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1587751924953" />
     <state width="1059" height="196" key="GridCell.Tab.0.right/-1080.61.1080.1897/0.23.1680.945@-1080.61.1080.1897" timestamp="1587662598517" />
     <state width="1059" height="196" key="GridCell.Tab.0.right/-1080.61.1080.1897/0.23.1680.948@-1080.61.1080.1897" timestamp="1587664777440" />
+    <state width="1059" height="196" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1587867039175" />
     <state x="517" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1587572674756">
       <screen x="0" y="23" width="1680" height="942" />
     </state>
