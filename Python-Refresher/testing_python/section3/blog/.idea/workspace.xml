@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe124a3d-19b5-4c95-9cc7-1bf7f43d6332" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/blog_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/blog_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +33,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in unit">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/integration" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/tests/unit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in tests">
     <configuration name="Unittests for blog_test.BlogTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/unit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -48,7 +55,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for blog_test.BlogTest.test_create_post" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in blog_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,23 +64,25 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;blog_test.BlogTest.test_create_post&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit/blog_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for blog_test.BlogTest.test_repr" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in integration" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/unit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;*_test.py&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;blog_test.BlogTest.test_repr&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/integration&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -85,6 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;*_test.py&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -106,19 +116,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for blog_test.BlogTest" />
-      <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_create_post" />
-      <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_repr" />
       <item itemvalue="Python tests.Unittests in tests" />
+      <item itemvalue="Python tests.Unittests in integration" />
       <item itemvalue="Python tests.Unittests in unit" />
+      <item itemvalue="Python tests.Unittests for blog_test.BlogTest" />
+      <item itemvalue="Python tests.Unittests in blog_test.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in unit" />
         <item itemvalue="Python tests.Unittests in tests" />
-        <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_create_post" />
+        <item itemvalue="Python tests.Unittests in blog_test.py" />
+        <item itemvalue="Python tests.Unittests in unit" />
         <item itemvalue="Python tests.Unittests for blog_test.BlogTest" />
-        <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_repr" />
+        <item itemvalue="Python tests.Unittests in integration" />
       </list>
     </recent_temporary>
   </component>
@@ -136,25 +146,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1076" y="1096" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588279298100">
+    <state x="-1076" y="1096" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588284020986">
       <screen x="-1080" y="61" width="1080" height="1897" />
     </state>
-    <state x="-1076" y="1096" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588279298100" />
-    <state width="1059" height="287" key="GridCell.Tab.0.bottom" timestamp="1588279267330">
+    <state x="-1076" y="1096" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588284020986" />
+    <state width="1059" height="287" key="GridCell.Tab.0.bottom" timestamp="1588284526656">
       <screen x="-1080" y="61" width="1080" height="1897" />
     </state>
-    <state width="1059" height="287" key="GridCell.Tab.0.bottom/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588279267330" />
-    <state width="1059" height="287" key="GridCell.Tab.0.center" timestamp="1588279267329">
+    <state width="1059" height="287" key="GridCell.Tab.0.bottom/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588284526656" />
+    <state width="1059" height="287" key="GridCell.Tab.0.center" timestamp="1588284526655">
       <screen x="-1080" y="61" width="1080" height="1897" />
     </state>
-    <state width="1059" height="287" key="GridCell.Tab.0.center/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588279267329" />
-    <state width="1059" height="287" key="GridCell.Tab.0.left" timestamp="1588279267328">
+    <state width="1059" height="287" key="GridCell.Tab.0.center/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588284526655" />
+    <state width="1059" height="287" key="GridCell.Tab.0.left" timestamp="1588284526654">
       <screen x="-1080" y="61" width="1080" height="1897" />
     </state>
-    <state width="1059" height="287" key="GridCell.Tab.0.left/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588279267328" />
-    <state width="1059" height="287" key="GridCell.Tab.0.right" timestamp="1588279267330">
+    <state width="1059" height="287" key="GridCell.Tab.0.left/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588284526654" />
+    <state width="1059" height="287" key="GridCell.Tab.0.right" timestamp="1588284526655">
       <screen x="-1080" y="61" width="1080" height="1897" />
     </state>
-    <state width="1059" height="287" key="GridCell.Tab.0.right/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588279267330" />
+    <state width="1059" height="287" key="GridCell.Tab.0.right/-1080.61.1080.1897/0.23.1680.942@-1080.61.1080.1897" timestamp="1588284526655" />
   </component>
 </project>

@@ -9,17 +9,16 @@ class Blog:
         self.posts = posts or []
 
     def __repr__(self):
-        return f"<Blog with title: {self.title}, author: {self.author} and posts: {self.posts}>"
+        return f"<{self.title} by {self.author} ({len(self.posts)} " \
+               f"post{'s' if len(self.posts) != 1 else ''})>"
 
     def create_post(self, title, content):
         self.posts.append(Post(title, content))
+        return
 
     def json(self):
         return {
             "title": self.title,
             "author": self.author,
-            "posts": self.posts,
+            "posts": [post.json() for post in self.posts],
         }
-
-# b = Blog("Test", "Test")
-# print( b.__repr__())
